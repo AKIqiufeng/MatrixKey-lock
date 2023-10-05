@@ -1,0 +1,6 @@
+".\Objects\Delay.obj",
+".\Objects\LCD1602.obj",
+".\Objects\Matrixkey.obj",
+".\Objects\main.obj" 
+TO ".\Objects\Project" 
+PRINT(".\Listings\Project.m51") RAMSIZE(256) 
